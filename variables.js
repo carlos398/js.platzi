@@ -9,3 +9,12 @@ var edad;
 edad = 21;
 
 var elementos = ["computador", "celular"]
+
+//  un = es asignar un valor
+//  dos == es comparar valor
+
+//  objetos
+var persona = {
+    nombre = "carlos",
+    edad = 21
+}
