@@ -7,3 +7,5 @@ var nombre = "carlos reyes"
 var edad;
 // inicializar
 edad = 21;
+
+var elementos = ["computador", "celular"]
