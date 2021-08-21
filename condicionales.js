@@ -33,3 +33,20 @@ var resultado = function(user, cpu) {
         console.log("Empate")
     }
 };
+
+// EL SWITCH PARA VALIDAR CASOS CON REAL Y FALSO
+
+var num = 1
+
+switch (numero) {
+    case 1:
+        console.log("es un uno");
+        break;
+    case 2:
+        console.log("es un dos");
+        break;
+    default:
+        console.log("no soy nada");
+        break;
+}
+i
