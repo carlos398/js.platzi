@@ -18,3 +18,15 @@ while (estudiantes.length > 0) { // Aquí la tarea se hará siempre y cuando sea
     var estudiante = estudiantes.shift(); // shift() es un método que saca un elemento del array de la posición 0 a la última, Pop() comienza de la última a la primera.
     saludarEstudiante(estudiante);
 }
+
+// Los bucles pueden ejecutar un bloque de código varias veces. JavaScript admite diferentes tipos de bucles:
+
+// for - recorre un bloque de código varias veces
+
+// for/in - recorre las propiedades de un objeto
+
+// for/of - recorre los valores de un objeto iterable
+
+// while - recorre un bloque de código mientras se cumple una condición específica
+
+// do/while - también recorre un bloque de código mientras se cumple una condición específica
