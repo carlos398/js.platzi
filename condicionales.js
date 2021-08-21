@@ -5,3 +5,9 @@ if (edad < 18) {
 } else {
     console.log("awa")
 }
+
+// condicion en una sola linea
+
+var numero = 1
+
+var resultado = numero === 1 ? "si es un uno" : "no es un uno"
